@@ -21,6 +21,11 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 # As you mentioned, it expose all records as well as a single record, and return the details of record in MongoDB
 ![log2](https://user-images.githubusercontent.com/55413701/130871325-8fbd45da-d1bd-4545-8c78-8c45bde0812a.png)
 
+ # Whenever a user create, delete or update a user it display Bearer as authorization on the terminal.
+ ![bearer](https://user-images.githubusercontent.com/55413701/130871786-9bbce543-6781-48cd-a209-e4edd05919b1.png)
+
+ 
+
 
 
 
