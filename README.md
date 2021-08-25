@@ -10,7 +10,8 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 
 ![image](https://user-images.githubusercontent.com/55413701/130869349-909395a9-0997-4dd7-bf0f-aecfc795392c.png)
 
-now it can recognize how is the user and immedately displays the name of user on the nav bar.
+
+# now it can recognize how is the user and immedately displays the name of user on the nav bar, and you can see in the console it read api's data from mongodb.
 ![image](https://user-images.githubusercontent.com/55413701/130869494-4c3303e2-5476-4729-b024-ab423606d79c.png)
 
 
