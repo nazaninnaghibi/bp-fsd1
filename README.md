@@ -4,7 +4,7 @@ they sign up or if they already registered, they can sign in to create a new use
 
 - Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 - A React.js form collecting first name, last name, and phone number, with a UI
-framework called, material-ui.
+framework called, material-ui
 
 ![main](https://user-images.githubusercontent.com/55413701/130868759-55f4a4d4-5138-4474-955c-e5bc4418ab71.png)
 
