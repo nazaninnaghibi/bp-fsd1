@@ -41,7 +41,7 @@ framework called, material-ui
 ![logout](https://user-images.githubusercontent.com/55413701/130874159-eaf7b415-2a4c-4960-a930-6230408f9596.png)
 
 
-# I tested the backend on Postman as well to make sure everything works perfectly, and you can see token is created for user.
+# I tested the backend on Postman as well to make sure everything works perfectly, and you can see token is created for the user and it will expire after an hour.
 ![postman](https://user-images.githubusercontent.com/55413701/130872794-6ffdf22b-5018-42be-99ac-a586b763fa88.png)
 
 # Also, it shows the list of users as well
