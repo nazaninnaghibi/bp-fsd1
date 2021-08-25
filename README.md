@@ -6,4 +6,9 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 
 ![main](https://user-images.githubusercontent.com/55413701/130868759-55f4a4d4-5138-4474-955c-e5bc4418ab71.png)
 
+# Sign up:
+
+![image](https://user-images.githubusercontent.com/55413701/130869349-909395a9-0997-4dd7-bf0f-aecfc795392c.png)
+
+
 
