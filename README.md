@@ -23,6 +23,20 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 
  # Whenever a user create, delete or update a user it display Bearer as authorization on the terminal.
  ![bearer](https://user-images.githubusercontent.com/55413701/130871786-9bbce543-6781-48cd-a209-e4edd05919b1.png)
+ 
+ # For example, I edited a user which is called John Smith to John Brown, and it immediately changed.
+ ![edit](https://user-images.githubusercontent.com/55413701/130872042-96d0b1f8-3c5a-441f-87dd-a0ecb8df5966.png)
+![JohnBrown](https://user-images.githubusercontent.com/55413701/130872138-ad79c1b5-c78b-45cc-9b61-6d9a97c7e690.png)
+
+# Now I am going to delete John Brown from the list.
+![delete](https://user-images.githubusercontent.com/55413701/130872307-23a8ea53-6115-40d9-9d2f-8e257de45117.png)
+
+# Now I am going to create a new user which is called Mary Brown.
+![create](https://user-images.githubusercontent.com/55413701/130872450-c9bee924-40cd-4b29-b7f9-3c67d5043a38.png)
+![added](https://user-images.githubusercontent.com/55413701/130872530-8560bee2-6451-4dcd-850f-337a75a04ccd.png)
+
+
+
 
  
 
