@@ -2,7 +2,7 @@ Thank you for giving me the opportunity to show you, my skills. First of all, th
 that it displays a cart for each user with its details and there are two buttons on it, for deleting and updating the user, but nobody can delete, create or update a user until 
 they sign up or if they already registered, they can sign in to create a new user or update and delete them, so both authentication and authorization are applied on this web page.
 
-- Technology used: Redux, Mongo DB (CRUD), Node.js, Express
+- Technology used: React + Redux, Mongo DB (CRUD), Node.js, Express
 - A React.js form collecting first name, last name, and phone number, with a UI
 framework called, material-ui
 
