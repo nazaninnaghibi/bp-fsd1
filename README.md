@@ -47,7 +47,7 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 ![listpostman](https://user-images.githubusercontent.com/55413701/130872981-bb4dfa6e-79b2-4b0f-bafe-239732be0019.png)
 
 # MongoDB (Atlas) shows a list of users as well
-![image](https://user-images.githubusercontent.com/55413701/130873130-f5690416-1208-4c3c-b2fc-5781927dab23.png)
+![mongodb](https://user-images.githubusercontent.com/55413701/130874253-802d2865-3c2c-4933-8e25-ac6881dca8b9.png)
 
 
 
