@@ -36,6 +36,10 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 ![create](https://user-images.githubusercontent.com/55413701/130872450-c9bee924-40cd-4b29-b7f9-3c67d5043a38.png)
 ![added](https://user-images.githubusercontent.com/55413701/130872530-8560bee2-6451-4dcd-850f-337a75a04ccd.png)
 
+# Now I am going to log out from the web page.
+![logout](https://user-images.githubusercontent.com/55413701/130874159-eaf7b415-2a4c-4960-a930-6230408f9596.png)
+
+
 # I tested the backend on Postman as well to make sure everything works perfectly, and you can see token is created for user.
 ![postman](https://user-images.githubusercontent.com/55413701/130872794-6ffdf22b-5018-42be-99ac-a586b763fa88.png)
 
