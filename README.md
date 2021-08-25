@@ -15,7 +15,9 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 - It can display the name of user on the nav bar
 - Now user can create a new user, delete and update it
 - console demostrates the api's data from mongodb.
-![image](https://user-images.githubusercontent.com/55413701/130869494-4c3303e2-5476-4729-b024-ab423606d79c.png)
+- 
+![console](https://user-images.githubusercontent.com/55413701/130870267-54864995-f53d-495c-b3b7-c3db3d9ca7f4.png)
+
 
 
 
