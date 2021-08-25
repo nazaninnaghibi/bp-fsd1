@@ -35,6 +35,17 @@ Technology used: Redux, Mongo DB (CRUD), Node.js, Express
 ![create](https://user-images.githubusercontent.com/55413701/130872450-c9bee924-40cd-4b29-b7f9-3c67d5043a38.png)
 ![added](https://user-images.githubusercontent.com/55413701/130872530-8560bee2-6451-4dcd-850f-337a75a04ccd.png)
 
+# I tested the backend on Postman as well to make sure every thing works perfectely, and you can see token is created for user.
+![postman](https://user-images.githubusercontent.com/55413701/130872794-6ffdf22b-5018-42be-99ac-a586b763fa88.png)
+
+# Also it shows the list of users as well
+![listpostman](https://user-images.githubusercontent.com/55413701/130872981-bb4dfa6e-79b2-4b0f-bafe-239732be0019.png)
+
+# Mongodb(Atlas) shows a list of users as well
+![image](https://user-images.githubusercontent.com/55413701/130873130-f5690416-1208-4c3c-b2fc-5781927dab23.png)
+
+
+
 
 
 
