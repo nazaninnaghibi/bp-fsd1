@@ -1,4 +1,1 @@
-{
-    "mongoDBConnection" : "mongodb+srv://nazanin:123@cluster0.wbmtr.mongodb.net/taskapp?retryWrites=true&w=majority",
-    "jwtsecret":"secret"
-}
+
